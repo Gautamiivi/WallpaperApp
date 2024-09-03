@@ -33,7 +33,8 @@ dependencies:
   http: ^1.2.2 # or the latest version
   permission_handler: ^11.2.0
   path_provider: ^2.1.4
-  
+  provider: ^6.0.0
+
 
 
 
