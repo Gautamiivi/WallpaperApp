@@ -8,6 +8,7 @@
         android:required="true"
         android:maxSdkVersion="30"/> <!-- For Android 11 and above -->
 
+
     <application
         android:label="wallpapers"
         android:icon="@mipmap/ic_launcher">
